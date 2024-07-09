@@ -1,19 +1,74 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of music history.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who composed the 'Fifth Symphony'?",
+      "answers": ["Beethoven", "Mozart", "Bach"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who is the 'King of Rock and Roll'?",
+      "answers": ["Elvis", "Chuck", "Jerry"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who wrote 'The Four Seasons'?",
+      "answers": ["Vivaldi", "Bach", "Mozart"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the lead singer of Queen?",
+      "answers": ["Mercury", "Bowie", "Plant"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is known as the 'Queen of Soul'?",
+      "answers": ["Franklin", "Turner", "Ross"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which band was John Lennon in?",
+      "answers": ["Beatles", "Stones", "Who"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Rhapsody in Blue'?",
+      "answers": ["Gershwin", "Bernstein", "Copland"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who sang 'Purple Haze'?",
+      "answers": ["Hendrix", "Joplin", "Morrison"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the 'Godfather of Soul'?",
+      "answers": ["Brown", "Cooke", "Redding"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'The Magic Flute'?",
+      "answers": ["Mozart", "Bach", "Beethoven"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is known for 'Bohemian Rhapsody'?",
+      "answers": ["Queen", "ABBA", "Eagles"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who sang 'Thriller'?",
+      "answers": ["Jackson", "Prince", "Bowie"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Boléro'?",
+      "answers": ["Ravel", "Debussy", "Satie"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is known for 'Ziggy Stardust'?",
+      "answers": ["Bowie", "Jagger", "Mercury"],
       "correctAnswerIndex": 0
     }
   ]
